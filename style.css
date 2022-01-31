@@ -1,0 +1,38 @@
+.myForm{
+      margin: 25px 100px;
+    }
+
+    .myForm input{
+      width: 45%;
+      padding: 8px;
+      border-radius: 3px;
+      background-color: #ECF6EEFF;
+      border: none;
+      margin: 0px 15px 12px 0px;
+    }
+    .myForm textarea{
+      width: 94%;
+      height: 130px;
+      background-color: #ECF6EEFF;
+      border: none;
+      resize: none;
+    }
+    .myForm button{
+      display: block;
+      margin: auto;
+      width: 145px;
+      padding: 10px;
+      background-color: #00A352FF;
+      color: #f2f2f2;
+      border-radius: 15px;
+      border: none;
+      margin-top: 10px;
+    }
+
+    .myForm input:focus{
+      outline: none;
+
+    }
+    .myForm textarea:focus{
+      outline: none;
+    }
